@@ -1,0 +1,36 @@
+html {
+    background-image: url(/images/backgroundImg.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+}
+header {
+    text-align: center;
+}
+.container {
+    width: 75%;
+    background-color: tan;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding: 15px;
+}
+div {
+    padding: 15px;
+    height: 300px;
+}
+img {
+    padding: 15px;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+footer {
+    text-align: center;
+    font-size: 75%;
+}
